@@ -1,2 +1,2 @@
-# gittutorials by Kausik Chattapadhyay
+# gittutorials by Developer B
 how are you?
